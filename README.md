@@ -16,3 +16,9 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
   - Iaas -> Servidores, armazenamento, firewalls, segurança, planta física e edifício do datacenter;
   - Paas -> Sistemas operacionais, ferramentas para desenvolvedores;
   - Saas -> Aplicativos e apps hospedados.
+- Aprendi sobre componentes de arquitetura do Azure:
+  - Regiões
+  - Zonas de disponibilidade
+  - Pares de regiões
+  - Regiões soberanas
+   Grupos de gerenciamento -> Assinaturas -> Grupos de recursos -> Recursos
