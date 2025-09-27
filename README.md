@@ -38,3 +38,19 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
   - Serviços de aplicativos do Azure
   - Serviços de rede do Azure
   - DNS do Azure
+
+- Aprendi sobre armazenamento:
+  - Redundância e serviços de armazenamento
+    - LRS, ZRS, GRS, GZRS
+    - Blob, Disco, Fila, Arquivos, Tabelas
+  - Pontos de extremidades públicos
+    - blob, dfs, file, queue, table
+  - Camadas de acesso
+    - Frequente
+    - Esporádico
+    - Frio
+    - Arquivo Morto
+  - Migrações
+    - Azure Data Box -> 80Tb
+    - Azcopy -> linha de comando
+    - Gerenciamento de arquivos -> interface
