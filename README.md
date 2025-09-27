@@ -3,6 +3,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 ## Módulo 01
 - Aprendi sobre como personalizar meu Azure e alguns dos serviços que tem disponíveis na plataforma.
+
 - Aprendi sobre os benefícios da Nuvem:
   - Alta disponibilidade
   - Escalabilidade
@@ -12,13 +13,28 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
   - Segurança
   - Governança
   - Gerenciabilidade
+
 - Aprendi sobre os tipos de serviço de nuvem:
   - Iaas -> Servidores, armazenamento, firewalls, segurança, planta física e edifício do datacenter;
   - Paas -> Sistemas operacionais, ferramentas para desenvolvedores;
   - Saas -> Aplicativos e apps hospedados.
+
 - Aprendi sobre componentes de arquitetura do Azure:
   - Regiões
   - Zonas de disponibilidade
   - Pares de regiões
   - Regiões soberanas
    Grupos de gerenciamento -> Assinaturas -> Grupos de recursos -> Recursos
+
+- Aprendi sobre computação e rede:
+  - Máquinas Virtuais
+  - Conjuntos de dimensionamento de VMs
+  - Conjuntos de disponibilidade de VMs
+    - Domínio de falha
+    - Domínio de atualização
+  - Área de trabalho virtual
+  - Contêineres do Azure
+  - Azure functions
+  - Serviços de aplicativos do Azure
+  - Serviços de rede do Azure
+  - DNS do Azure
