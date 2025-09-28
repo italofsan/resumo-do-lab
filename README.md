@@ -114,3 +114,15 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
     - Azure ARC -> local, várias nuvens e borda
   - Azure Resource Manager (ARM)
   - Bicep
+
+- Aprendi sobre ferramentas de monitoramento:
+  - Ferramentas
+    - Assistente do Azure - recomendações
+    - Integridade do Serviço do Azure -> status do Azure
+    - Azure Monitor -> maximiza disponibilidade e desempenho com base na telemetria
+  - Assistente do Azure
+    - Confiabilidade
+    - Segurança
+    - Desempenho
+    - Custo
+    - Excelência Operacional
