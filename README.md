@@ -96,7 +96,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
     - Recomendação
   - Marcas (Tags)
 
-- Aprendi sobre governança e conformidade
+- Aprendi sobre governança e conformidade:
   - Azure Policy -> ajuda a impor padrões organizacionais | avalia e identifica
     -  Non-complaint
     -  Remediation
@@ -104,3 +104,13 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
   - Bloqueios de recursos
   - Portal de Confiança do Serviço
   - Microsoft Purview
+
+- Aprendi sobre Ferramentas de implantação de recursos:
+  - Ferramentas
+    - Portal do Azure
+    - Azure Cloud Shell
+    - Azure PowerShell
+    - CLI
+    - Azure ARC -> local, várias nuvens e borda
+  - Azure Resource Manager (ARM)
+  - Bicep
