@@ -95,3 +95,12 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
     - Alertas
     - Recomendação
   - Marcas (Tags)
+
+- Aprendi sobre governança e conformidade
+  - Azure Policy -> ajuda a impor padrões organizacionais | avalia e identifica
+    -  Non-complaint
+    -  Remediation
+    -  Complaint
+  - Bloqueios de recursos
+  - Portal de Confiança do Serviço
+  - Microsoft Purview
