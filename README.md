@@ -54,3 +54,27 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
     - Azure Data Box -> 80Tb
     - Azcopy -> linha de comando
     - Gerenciamento de arquivos -> interface
+
+- Aprendi sobre identidade, acesso e segurança
+  - Microsoft Entra ID
+    - Autenticação
+    - Logon Único (SSO) -> Single Sign On
+    - Gerenciamento de aplicativos
+    - B2B
+    - Gerenciamento de dispositivos
+  - Autenticação
+    - Identifica a pessoa
+    - Solicita credenciais de acesso legítimo
+  - Autorização
+    - Nível de acesso
+    - Quais dados podem acessar e o que pode fazer com eles
+  - Acesso condicional -> Granularidade
+    - Associação de usuário ou grupo
+    - Local do IP
+    - Dispositivo
+    - Aplicativo
+    - Detecção de risco
+  - Controle de acesso baseado em função (RBAC)
+  - Confiança Zero
+    - Pressupõe que algo foi violado
+    - Camadas de segurança
