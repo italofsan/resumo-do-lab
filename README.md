@@ -78,3 +78,20 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
   - Confiança Zero
     - Pressupõe que algo foi violado
     - Camadas de segurança
+
+## Módulo 03
+- Aprendi sobre gerenciamento de custos:
+  - Fatores que afetam custos
+    - Tipo de recurso
+    - Consumo -> modelos (pay as you go | reserva)
+    - Manutenção
+    - Área geográfica
+    - Tráfego de rede -> zonas de cobrança
+    - Assinatura
+  - Azure Marketplace
+  - Calculadora de preços
+  - Gerenciamento de custos
+    - Orçamentos
+    - Alertas
+    - Recomendação
+  - Marcas (Tags)
